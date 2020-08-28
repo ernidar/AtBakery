@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class AtTheBakery {
+public class AtBakery {
     public static void main(String[] args) {
         ArrayList<String> menu = new ArrayList<>();
         menu.add("Muffins");
